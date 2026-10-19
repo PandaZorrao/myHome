@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+
+
+@theme {
+  --color-ie-blue: #000080;
+  --color-ie-blue-light: #1084d0;
+  --color-ie-bg: #c0c0c0;
+  --color-ie-border-light: #ffffff;
+  --color-ie-border-dark: #808080;
+
+  --color-blog-bg: #0b0d12;
+  --color-blog-card: #141721;
+  --color-blog-card-border: #262b3a;
+  --color-blog-header: #0000a0;
+  --color-blog-accent: #00aaff;
+}
+
+/* Custom 90s/2000s Web Textures and Bevel Effects */
+@layer utilities {
+    .bg-dot-pattern {
+    background-color: #08090d;
+    background-image: radial-gradient(#1e2435 1px, transparent 1px);
+    background-size: 8px 8px;
+  }
+
+  /* Classic Windows 3D Bevel Borders */
+  .border-ie-outset {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffffff #808080 #808080 #ffffff;
+  }
+
+  .border-ie-inset {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #808080 #ffffff #ffffff #808080;
+  }
+
+  .border-retro-box {
+    border: 1px solid #2d3548;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #111;
+  font-family: var(--font-ms);
+  color: #e2e8f0;
+}
