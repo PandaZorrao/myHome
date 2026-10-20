@@ -79,7 +79,7 @@
           
           <!-- Foto de Perfil -->
           <div class="w-48 h-48 border-2 border-black bg-white flex shrink-0 shadow-[2px_2px_0px_#ccc] overflow-hidden">
-              <img src="/yui1.jpg" alt="Heitor" class="w-full h-full object-cover" />
+              <img src="/thesmiths1.jpg" alt="Heitor" class="w-full h-full object-cover" />
           </div>
           
           <!-- Texto de Apresentação -->
@@ -89,7 +89,6 @@
               Prazer sou Heitor, um dev graduando em ciência da computação na universidade da PUC Minas, estou no segundo período, gosto muito de música, cinema, idiomas e computadores também. Falo 3 idiomas em variáveis níveis, Inglês e espanhol (C1) e Alemão (B1), e estudei alguns outros. Me formei em 2024 fazendo curso técnico colégio COTEMIG.
             </p>
             <p>
-            No final de 2024 comecei a trabalhar em uma livraria e apesar de nao ter relacao com minha area de atuacao agora foi de longe umas experiencias que mais me fez amadurecer. Nada como um trabalho 6x1 para criar carater, alem de todas as pessoas incriveis (ou nao) que pude conhecer enquanto trabalhava la.               inclusive se tive a ideia de criar o site dessa maneira ou o fato de usar arch e vim foi gracas ao meu amigo e ex-coworker Adriel. Na area de TI pretendo trabalhar no back-end e com uma programacao low level.
             </p>
             <p class="font-bold pt-2">
               Se gostar me contrate por favor :)

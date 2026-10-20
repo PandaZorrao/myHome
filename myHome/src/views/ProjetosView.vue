@@ -7,39 +7,28 @@ import { ref } from 'vue'
 const projetos = ref([
   {
     id: 3,
-    data: 'Sexta-feira, 16 de outubro de 2026', // Estilo da imagem
+    data: 'Sexta-feira, 20 de setembro de 2026',  
     numero: '#003',
-    nome: 'Vaivém V2',
-    descricao: 'Plataforma abrangente para gestão de frotas e motoristas. Inclui relatórios detalhados, dashboard interativo e sistema de permissões. Gosto muito da cultura da internet dos anos 2000, onde o algoritmo não tinha planificado tudo.',
-    tecnologias: 'Vue 3, Tailwind CSS',
+    nome: 'Trilho',
+    descricao: 'Plataforma para conectar amantes de trilhas em tudo Brasil. Inclui sistema de contracao de guias, monitoramento das condicoes das trilhas, interacoes entre usuarios e muito mais. ',
+    tecnologias: 'Node.js',
     status: 'Em desenvolvimento',
     github: '#',
     imagem: '/imagem_projeto3.png'
   },
   {
     id: 2,
-    data: 'Quarta-feira, 10 de maio de 2024',
+    data: 'Quinta-feira, 15 de outubro de 2026',
     numero: '#002',
-    nome: 'Autenticação Auth',
-    descricao: 'Sistema completo de login e registo seguro utilizando tokens JWT. Foco em segurança e proteção de rotas privadas.\n\nAqui você vai encontrar coisas que gosto e decido salvo aqui, projetos pessoais meus.',
-    tecnologias: 'Node.js, Express, JWT',
-    status: 'Concluído',
-    github: '#',
+    nome: 'myHome',
+    descricao: 'Projeto de portifolio e blog pessoal, site responsivo seguro com diversas funcionalidades ja prontas e outras por vir, SABOR anos 2000\n\n\nAqui você vai encontrar coisas que gosto e decido salvo aqui, projetos pessoais meus.',
+    tecnologias: 'Vue 3, Tailwind CSS',
+    status: 'Em desenvolviment',
+    github: 'https://github.com/PandaZorrao/myHome',
     imagem: '/imagem_projeto2.jpg'
   },
-  {
-    id: 1,
-    data: 'Segunda-feira, 12 de março de 2023',
-    numero: '#001',
-    nome: 'Primeiro Script CSS',
-    descricao: 'Os meus primeiros passos no desenvolvimento web. Um conjunto de scripts e estilos para personalizar páginas estáticas com animações simples.',
-    tecnologias: 'HTML, CSS Vanilla',
-    status: 'Concluído',
-    github: '#',
-    imagem: '/imagem_projeto1.gif'
-  }
 ])
-
+  
 // Variáveis para o formulário de novo projeto
 const mostrarFormulario = ref(false)
 const novoProjeto = ref({

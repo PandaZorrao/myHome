@@ -379,7 +379,7 @@ async function changeTrack(direction: 'next' | 'prev') {
           <div class="flex flex-col md:flex-row gap-8 items-start">
             
             <div class="w-40 h-56 border-2 border-black bg-white flex shrink-0 p-1 shadow-[2px_2px_0px_#ccc] overflow-hidden">
-              <img src="/yui1.jpg" alt="Heitor" class="w-full h-full object-cover" />
+              <img src="/kc1.jpg" alt="Heitor" class="w-full h-full object-cover" />
             </div>
             
             <div class="flex-1 flex flex-col space-y-8 text-base w-full">
