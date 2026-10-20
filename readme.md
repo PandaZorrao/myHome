@@ -1,21 +1,14 @@
-# Portfólio Pessoal Retro (Anos 2000) - Heitor.dev
+# Portfólio Pessoal Myhome - Heitor.dev
 
 ## 📖 Descrição do Projeto
 Este projeto consiste no desenvolvimento de um portfólio web pessoal e blog com uma forte identidade visual inspirada na internet dos anos 2000 e nas clássicas janelas do Microsoft Internet Explorer. 
 
-O objetivo não é apenas apresentar experiências, competências e links de contato, mas também resgatar a personalização e a autenticidade da "web antiga", onde o design refletia diretamente a personalidade do criador. O portfólio funciona como uma Single Page Application (SPA), permitindo uma navegação fluida entre as páginas de "Home", "Sobre Mim" e "Projetos" sem recarregar o navegador, e inclui funcionalidades dinâmicas como um leitor de música integrado e um gestor de projetos no estilo *timeline*.
-
 ## 🖼️ Imagens dos Protótipos
-*(Nota: Substitua os links abaixo pelas imagens reais do protótipo gerado no Figma ou capturas de tela do site em funcionamento).*
+Página Inicial (Blog & Music Player):(images/HomeView.png)
 
-* **Página Inicial (Blog & Music Player):**  
-  ![Protótipo Home](./docs/prototipo-home.png)
+Página Sobre Mim:(images/AboutView.png)
 
-* **Página Sobre Mim:**  
-  ![Protótipo Sobre Mim](./docs/prototipo-sobre.png)
-
-* **Página de Projetos:**  
-  ![Protótipo Projetos](./docs/prototipo-projetos.png)
+Página de Projetos:(images/ProjetosView.png)
 
 ## 💻 Tecnologias Previstas
 As seguintes ferramentas e tecnologias foram definidas para o desenvolvimento da aplicação:
